@@ -1,4 +1,4 @@
-# Cricket Quiz Application
+#  Quiz Application
 
 This is a simple JavaFX application for a Cricket Quiz.
 
